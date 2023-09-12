@@ -57,17 +57,13 @@
    font-weight: bold;
    line-height: 25px;
  }
- @media only screen and (max-width: 420px) {
-   .user {
-     width: 85vw;
-     padding: 0.9rem 0.2rem 0.2rem;
+@media only screen and (max-width: 420px) {
+   .users {
+     width: 80vw;
+     padding: 0.9rem 1.5rem 0.2rem;
      transform: translate(7%, 5%);
    }
    .user_details p {
      font-size: 0.8rem;
-   }
-   .user_details .detail {
-     margin-right: 0.3rem;
-     padding: 0.3rem 0.3rem;
    }
  }
