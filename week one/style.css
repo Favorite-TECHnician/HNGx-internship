@@ -11,16 +11,17 @@
  a{
     text-decoration: none;
     margin: auto;
+    color:aqua;
  }
  .users{
     background-color:  #C724B1;
-    width: 30vw;
+    width: 33vw;
     transform: translate(100%,10%);
     display: flex;
     flex-direction: column;
     align-items: center ;
     justify-content: center;
-    padding: 1.5rem 0rem;
+    padding: 1.0rem 0rem;
     border-radius: 0.5rem;
  }
  .users_img{
@@ -41,7 +42,7 @@
  .users_details .details{
     background-color: azure;
     border-radius: 0.3rem;
-    padding: 0.6rem 0.6rem;
+    padding: 0.5rem 0.5rem;
     margin: 0.8rem;
  }
  .button{
